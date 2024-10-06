@@ -1,0 +1,26 @@
+.Number1 {
+    background-color: lightpink; /* Corrected from 'light pink' to 'lightpink' */
+    font-family: Verdana, sans-serif, DejaVu Sans;
+}
+
+#Number2 {
+    color: blue;
+    font-size: 32px;
+}
+
+.Number3 {
+    background-color: lightpink; /* Corrected from 'light pink' to 'lightpink' */
+    font-family: Verdana, sans-serif, DejaVu Sans;
+    font-size: 24px;
+}
+
+#Number4 {
+    background-color: lightgreen; /* This is fine */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Number5 {
+    background-color: lightpink; /* Corrected from 'light pink' to 'lightpink' */
+    font-family: Verdana, sans-serif, DejaVu Sans;
+}
